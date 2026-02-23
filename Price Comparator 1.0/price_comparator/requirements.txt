@@ -1,0 +1,9 @@
+# Bibliotecas necessárias para o projeto
+
+fastapi==0.115.0 # Framework para criação de APIs
+uvicorn==0.30.6 # Servidor ASGI
+requests==2.32.3 # Requisições HTTP
+beautifulsoup4==4.12.3 # Manipulação de HTML
+pandas==2.2.2 # Manipulação de dados
+openpyxl==3.1.5 # Manipulação de arquivos Excel
+pydantic==2.8.2 # Validação de dados
